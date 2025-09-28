@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ronald-orozco/Descargas/microsoft-edge-stable_140.0.3485.66-1_amd64.deb" added="2025-09-13T21:09:21.555957Z" modified="2025-09-13T21:09:21.555977Z" visited="2025-09-13T21:09:21.555958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2025-09-13T21:09:21.555972Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

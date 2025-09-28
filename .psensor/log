@@ -1,0 +1,6 @@
+[2025-09-14T19:59:56] [ERR] nvctrl: Error al obtener la información de NVIDIA
+[2025-09-14T19:59:56] [WARN] Failed to load configuration file /home/ronald-orozco/.psensor/psensor.cfg: No existe el archivo o el directorio
+[2025-09-28T09:32:19] [ERR] nvctrl: Error al obtener la información de NVIDIA
+[2025-09-28T09:32:19] [WARN] Failed to load configuration file /home/ronald-orozco/.psensor/psensor.cfg: No existe el archivo o el directorio
+[2025-09-28T09:58:36] [ERR] nvctrl: Error al obtener la información de NVIDIA
+[2025-09-28T09:58:36] [WARN] Failed to load configuration file /home/ronald-orozco/.psensor/psensor.cfg: No existe el archivo o el directorio

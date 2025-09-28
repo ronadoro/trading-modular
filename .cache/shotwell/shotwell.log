@@ -1,0 +1,13 @@
+L 8567 2025-09-12 17:04:10 [MSG] main.vala:559: Shotwell Gestor de fotos 0.32.6 (0.32.6)
+L 8567 2025-09-12 17:04:10 [MSG] main.vala:43: Verifying database…
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:257: Supported codecs....
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:258:   WEBP   : yes, builtin
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:259:   RAW    : yes, builtin
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:260:   CR3    : yes
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:261:   JPEG   : yes, gdk-pixbuf
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:262:   PNG    : yes, gdk-pixbuf
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:263:   GIF    : yes, gdk-pixbuf
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:264:   TIFF   : yes, gdk-pixbuf
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:265:   JPEG XL: no, gdk-pixbuf, yes meta-data
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:266:   AVIF   : yes, gdk-pixbuf, yes meta-data
+L 8567 2025-09-12 17:04:30 [MSG] main.vala:267:   HEIF   : yes, gdk-pixbuf, yes meta-data

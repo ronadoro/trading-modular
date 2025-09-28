@@ -1,0 +1,6 @@
+2025/09/26-12:16:09.737 cd4 Reusing MANIFEST /home/ronald-orozco/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/26-12:16:09.738 cd4 Recovering log #3
+2025/09/26-12:16:09.744 cd4 Reusing old log /home/ronald-orozco/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2025/09/26-12:32:30.553 cc5 Level-0 table #5: started
+2025/09/26-12:32:30.594 cc5 Level-0 table #5: 1511187 bytes OK
+2025/09/26-12:32:30.602 cc5 Delete type=0 #3

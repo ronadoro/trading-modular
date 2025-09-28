@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="xfce4-taskmanager.desktop" score="1" last-seen="1758881859"/>
+    <application id="xfce4-sensors.desktop" score="70" last-seen="1758883835"/>
+    <application id="microsoft-edge.desktop" score="161" last-seen="1758883964"/>
+    <application id="transmission-gtk.desktop" score="0" last-seen="1758881873"/>
+    <application id="gparted.desktop" score="10" last-seen="1758882033"/>
+    <application id="org.gnome.Terminal.desktop" score="47" last-seen="1758883964"/>
+  </context>
+</application-state>

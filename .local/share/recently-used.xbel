@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ronald-orozco" added="2025-09-12T15:00:23.400476Z" modified="2025-09-28T10:43:27.121584Z" visited="2025-09-12T15:00:23.400477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2025-09-12T15:00:23.400480Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:43:27.121580Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2025-09-13T10:58:32.490172Z" modified="2025-09-28T14:13:04.225558Z" visited="2025-09-13T10:58:32.490174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:13:04.225554Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/Descargas/microsoft-edge-stable_140.0.3485.66-1_amd64.deb" added="2025-09-13T21:10:30.756434Z" modified="2025-09-13T21:12:01.764402Z" visited="2025-09-13T21:10:30.756435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2025-09-13T21:12:01.764399Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2025-09-13T21:11:51.507289Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="network:///" added="2025-09-13T21:25:22.829571Z" modified="2025-09-13T21:25:22.829577Z" visited="2025-09-13T21:25:22.829573Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-13T21:25:22.829575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/Escritorio" added="2025-09-13T21:27:03.070138Z" modified="2025-09-28T10:41:15.119552Z" visited="2025-09-13T21:27:03.070139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:41:15.119546Z" count="6"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-14T07:27:09.169789Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/Descargas" added="2025-09-13T21:35:11.116887Z" modified="2025-09-13T21:35:11.116891Z" visited="2025-09-13T21:35:11.116888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-13T21:35:11.116889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="recent:///" added="2025-09-13T21:35:14.692910Z" modified="2025-09-13T21:35:14.692914Z" visited="2025-09-13T21:35:14.692911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-13T21:35:14.692912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2025-09-13T21:35:43.023660Z" modified="2025-09-13T21:37:41.114359Z" visited="2025-09-13T21:35:43.023661Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-13T21:37:41.114356Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/seahorse" added="2025-09-13T22:01:29.123500Z" modified="2025-09-13T22:01:47.587719Z" visited="2025-09-13T22:01:29.123501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-13T22:01:47.587718Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/sensors-conf-convert" added="2025-09-13T22:05:10.493778Z" modified="2025-09-13T22:05:18.288720Z" visited="2025-09-13T22:05:10.493779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-13T22:05:10.493780Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-09-13T22:05:18.288718Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt" added="2025-09-14T08:03:15.728786Z" modified="2025-09-14T08:15:11.576509Z" visited="2025-09-14T08:03:15.728788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-14T08:15:11.576506Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/almacenamiento_1TB" added="2025-09-14T08:03:17.257830Z" modified="2025-09-14T08:15:13.757586Z" visited="2025-09-14T08:03:17.257831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-14T08:15:13.757581Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///dev" added="2025-09-14T08:03:23.376627Z" modified="2025-09-28T10:37:12.222262Z" visited="2025-09-14T08:03:23.376628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:37:12.222259Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv" added="2025-09-14T08:15:22.822299Z" modified="2025-09-28T14:13:07.832648Z" visited="2025-09-14T08:15:22.822300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:13:07.832643Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb" added="2025-09-14T08:15:24.896873Z" modified="2025-09-28T14:13:09.076675Z" visited="2025-09-14T08:15:24.896874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:13:09.076671Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/lost+found" added="2025-09-14T08:15:25.921170Z" modified="2025-09-14T08:15:25.921177Z" visited="2025-09-14T08:15:25.921171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-14T08:15:25.921173Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/PATRIOT-6/System%20Volume%20Information" added="2025-09-14T08:45:27.442601Z" modified="2025-09-14T08:45:27.442609Z" visited="2025-09-14T08:45:27.442603Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-14T08:45:27.442605Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/PATRIOT-6/System%20Volume%20Information/IndexerVolumeGuid" added="2025-09-14T08:45:33.612006Z" modified="2025-09-14T08:45:33.612013Z" visited="2025-09-14T08:45:33.612007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-14T08:45:33.612009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/3e5affdc-8d29-4c09-b679-b0b6b279f5c2/lost+found" added="2025-09-15T08:32:47.997167Z" modified="2025-09-21T18:48:00.299930Z" visited="2025-09-15T08:32:47.997168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-21T18:48:00.299926Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/Gemini_Generated_Image_u45vtzu45vtzu45v.png" added="2025-09-15T08:42:58.989846Z" modified="2025-09-15T08:42:58.989853Z" visited="2025-09-15T08:42:58.989847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-panel" exec="&apos;xfce4-panel %u&apos;" modified="2025-09-15T08:42:58.989849Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes" added="2025-09-15T08:44:06.630969Z" modified="2025-09-28T12:11:53.048084Z" visited="2025-09-15T08:44:06.630970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:53.048080Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes/Gemini_Generated_Image_u45vtzu45vtzu45v.png" added="2025-09-15T08:44:35.428442Z" modified="2025-09-15T08:48:02.170187Z" visited="2025-09-15T08:44:35.428443Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-panel" exec="&apos;xfce4-panel %u&apos;" modified="2025-09-15T08:48:02.170184Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/Escritorio/SSD_1TB" added="2025-09-17T09:46:22.728263Z" modified="2025-09-28T10:41:16.683844Z" visited="2025-09-17T09:46:22.728264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nautilus --new-window %U&apos;" modified="2025-09-17T09:46:22.728266Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:41:16.683839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes/Copilot_20250824_132718.png" added="2025-09-19T09:48:07.494887Z" modified="2025-09-19T09:48:08.038344Z" visited="2025-09-19T09:48:07.494888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-09-19T09:48:07.494890Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-09-19T09:48:08.038341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes/Copilot_20250824_145426.png" added="2025-09-19T09:48:25.742554Z" modified="2025-09-19T09:48:26.194977Z" visited="2025-09-19T09:48:25.742555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-09-19T09:48:25.742557Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-09-19T09:48:26.194976Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes/Copilot_20250824_132947.png" added="2025-09-19T09:48:30.845855Z" modified="2025-09-19T09:48:31.366703Z" visited="2025-09-19T09:48:30.845856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-09-19T09:48:30.845858Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-09-19T09:48:31.366701Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes/Copilot_20250824_133228.png" added="2025-09-19T09:48:34.716027Z" modified="2025-09-19T09:48:35.212153Z" visited="2025-09-19T09:48:34.716028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-09-19T09:48:34.716030Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-09-19T09:48:35.212152Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT/imagenes/Copilot_20250824_132337.png" added="2025-09-19T09:48:41.730137Z" modified="2025-09-19T09:48:42.256670Z" visited="2025-09-19T09:48:41.730138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2025-09-19T09:48:41.730141Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2025-09-19T09:48:42.256668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/4/System%20Volume%20Information" added="2025-09-21T18:29:54.445110Z" modified="2025-09-21T18:29:54.445117Z" visited="2025-09-21T18:29:54.445111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-21T18:29:54.445113Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_pny1tb" added="2025-09-28T10:41:40.019557Z" modified="2025-09-28T11:51:40.987774Z" visited="2025-09-28T10:41:40.019558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T11:51:40.987770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2025-09-28T10:43:25.531097Z" modified="2025-09-28T10:43:25.531103Z" visited="2025-09-28T10:43:25.531098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:43:25.531100Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media" added="2025-09-28T10:43:47.802957Z" modified="2025-09-28T12:11:49.477771Z" visited="2025-09-28T10:43:47.802958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:49.477767Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco" added="2025-09-28T10:43:56.275977Z" modified="2025-09-28T12:11:57.144957Z" visited="2025-09-28T10:43:56.275978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:57.144953Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/casper-rw" added="2025-09-28T10:44:05.386910Z" modified="2025-09-28T10:44:05.386918Z" visited="2025-09-28T10:44:05.386912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:44:05.386914Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/casper-rw/upper" added="2025-09-28T10:44:07.087498Z" modified="2025-09-28T10:44:07.087505Z" visited="2025-09-28T10:44:07.087499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:44:07.087501Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/PROMPTS" added="2025-09-28T10:44:12.362302Z" modified="2025-09-28T12:12:00.552738Z" visited="2025-09-28T10:44:12.362303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:12:00.552734Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/PROMPTS/$RECYCLE.BIN" added="2025-09-28T10:44:21.158047Z" modified="2025-09-28T10:44:21.158055Z" visited="2025-09-28T10:44:21.158048Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:44:21.158050Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/ronald-orozco/PROMPTS/$RECYCLE.BIN/S-1-5-21-3870038150-145789028-1048056483-1001" added="2025-09-28T10:44:22.273405Z" modified="2025-09-28T10:44:22.273416Z" visited="2025-09-28T10:44:22.273407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:44:22.273410Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/PATRIOT" added="2025-09-28T10:44:31.816430Z" modified="2025-09-28T12:11:51.167320Z" visited="2025-09-28T10:44:31.816431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:51.167317Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/docker-compose.yml" added="2025-09-28T10:59:15.197703Z" modified="2025-09-28T10:59:18.835014Z" visited="2025-09-28T10:59:15.197704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:59:15.197705Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-09-28T10:59:18.835011Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/sudo" added="2025-09-28T10:59:33.325378Z" modified="2025-09-28T10:59:33.325389Z" visited="2025-09-28T10:59:33.325379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:59:33.325383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/MisAlmacenamientos" added="2025-09-28T10:59:44.996564Z" modified="2025-09-28T10:59:44.996571Z" visited="2025-09-28T10:59:44.996565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:59:44.996567Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ronald-orozco/MisAlmacenamientos/SSD_1TB_Datos" added="2025-09-28T10:59:48.080680Z" modified="2025-09-28T10:59:48.080687Z" visited="2025-09-28T10:59:48.080681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T10:59:48.080683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/Trading_system" added="2025-09-28T11:57:16.547722Z" modified="2025-09-28T12:11:03.263789Z" visited="2025-09-28T11:57:16.547723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:03.263786Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/Trading_system/data" added="2025-09-28T11:57:28.773252Z" modified="2025-09-28T12:11:10.215577Z" visited="2025-09-28T11:57:28.773253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:10.215574Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/Trading_system/data/stocks" added="2025-09-28T12:11:12.270566Z" modified="2025-09-28T12:11:12.270573Z" visited="2025-09-28T12:11:12.270568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:11:12.270570Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/datasets" added="2025-09-28T12:26:11.897231Z" modified="2025-09-28T14:00:51.958026Z" visited="2025-09-28T12:26:11.897232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:00:51.958021Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/docker" added="2025-09-28T12:26:30.811118Z" modified="2025-09-28T14:14:09.570578Z" visited="2025-09-28T12:26:30.811119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:14:09.570575Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/models" added="2025-09-28T12:26:33.578639Z" modified="2025-09-28T12:26:33.578646Z" visited="2025-09-28T12:26:33.578640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:26:33.578642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/notebooks" added="2025-09-28T12:26:36.064742Z" modified="2025-09-28T12:26:36.064749Z" visited="2025-09-28T12:26:36.064743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:26:36.064745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/configs" added="2025-09-28T12:26:39.101091Z" modified="2025-09-28T13:14:01.926138Z" visited="2025-09-28T12:26:39.101092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T13:14:01.926135Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/backups" added="2025-09-28T12:26:41.456176Z" modified="2025-09-28T12:26:41.456183Z" visited="2025-09-28T12:26:41.456177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T12:26:41.456179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/scripts" added="2025-09-28T14:13:14.705545Z" modified="2025-09-28T14:13:14.705553Z" visited="2025-09-28T14:13:14.705547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:13:14.705549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/scripts/ingesta_postgres.py" added="2025-09-28T14:13:19.162100Z" modified="2025-09-28T14:13:26.909394Z" visited="2025-09-28T14:13:19.162101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:13:19.162103Z" count="1"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-09-28T14:13:26.909392Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///srv/data_ssd1tb/docker/docker-compose.yml" added="2025-09-28T14:14:11.810431Z" modified="2025-09-28T14:17:18.205182Z" visited="2025-09-28T14:14:11.810432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2025-09-28T14:17:16.624487Z" count="3"/>
+          <bookmark:application name="LibreOffice 24.2" exec="&apos;soffice %u&apos;" modified="2025-09-28T14:17:18.205179Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,77 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/ronald-orozco/.Xauthority
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+/etc/X11/Xsession.d/30x11-common_xresources: línea 16: has_option: orden no encontrada
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: línea 9: has_option: orden no encontrada
+Xsession: X session started for ronald-orozco at dom 28 sep 2025 14:25:01 CEST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:ronald-orozco being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/usr/bin/startxfce4: X server already running on display :10.0
+xfce4-session-Message: 14:25:02.244: SSH authentication agent is already running
+gpg-agent: ya hay un agente gpg ejecutándose - no se inicia otro
+
+** (xiccd:3391): WARNING **: 14:25:03.030: EDID is empty
+
+(polkit-gnome-authentication-agent-1:3377): GLib-CRITICAL **: 14:25:03.054: g_variant_new_string: assertion 'string != NULL' failed
+Servicio de geolocalización no en uso
+
+** (xiccd:3391): CRITICAL **: 14:25:03.115: device 'xrandr-RTK-FHD-demoset-1' does not exist
+
+** (xiccd:3391): CRITICAL **: 14:25:03.115: device 'xrandr-RTK-FHD-demoset-1' does not exist
+Xlib:  extension "DPMS" missing on display ":10.0".
+
+(xfce4-power-manager:3414): xfce4-power-manager-WARNING **: 14:25:03.210: Monitor is not DPMS capable
+
+** (light-locker:3491): ERROR **: 14:25:03.215: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(xfce4-power-manager:3414): xfce4-power-manager-WARNING **: 14:25:03.433: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+(tracker-miner-fs-3:3505): Tracker-CRITICAL **: 14:25:03.477: Could not request DBus name 'org.freedesktop.Tracker3.Miner.Files': D-Bus service name:'org.freedesktop.Tracker3.Miner.Files' is already taken, perhaps the application is already running?
+blueman-applet 14.25.03 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 14.25.03 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+[E][00039.708215] default      | [        pw-cli.c:  450 on_core_error()] remote 0x5787f4b31058: error id:66 seq:131 res:-2 (No existe el archivo o el directorio): no global 64
+[E][00039.708359] default      | [        pw-cli.c:  450 on_core_error()] remote 0x5787f4b31058: error id:0 seq:133 res:-2 (No existe el archivo o el directorio): unknown resource 66 op:7
+[E][00039.712365] default      | [        pw-cli.c:  450 on_core_error()] remote 0x5787f4b31058: error id:66 seq:134 res:-2 (No existe el archivo o el directorio): no global 64
+[E][00039.712501] default      | [        pw-cli.c:  450 on_core_error()] remote 0x5787f4b31058: error id:0 seq:136 res:-2 (No existe el archivo o el directorio): unknown resource 66 op:7
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.338: Binding 'XF86AudioLowerVolume' failed!
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.338: Binding 'XF86AudioRaiseVolume' failed!
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.342: Binding 'XF86AudioMute' failed!
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.346: Binding 'XF86AudioMicMute' failed!
+
+(wrapper-2.0:3617): pulseaudio-plugin-WARNING **: 14:25:04.347: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.347: Binding 'XF86AudioPlay' failed!
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.347: Binding 'XF86AudioStop' failed!
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.347: Binding 'XF86AudioPrev' failed!
+
+** (wrapper-2.0:3617): WARNING **: 14:25:04.347: Binding 'XF86AudioNext' failed!
+
+(wrapper-2.0:3617): pulseaudio-plugin-WARNING **: 14:25:04.347: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:3623): xfce4-notification-plugin-WARNING **: 14:25:04.611: Unable to check for unread messages: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying
+
+(Thunar:3364): GLib-GIO-CRITICAL **: 14:25:07.562: GFileInfo created without standard::size
+
+(Thunar:3364): GLib-GIO-CRITICAL **: 14:25:07.562: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(Thunar:3364): GLib-GIO-CRITICAL **: 14:25:24.802: GFileInfo created without standard::size
+
+(Thunar:3364): GLib-GIO-CRITICAL **: 14:25:24.803: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+(Thunar:3364): GLib-GIO-CRITICAL **: 14:26:43.867: GFileInfo created without standard::size
+
+(Thunar:3364): GLib-GIO-CRITICAL **: 14:26:43.867: file ../../../gio/gfileinfo.c: line 1845 (g_file_info_get_size): should not be reached
+
+** (xiccd:3391): WARNING **: 14:47:55.140: Exiting

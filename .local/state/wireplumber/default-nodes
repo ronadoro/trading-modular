@@ -1,0 +1,5 @@
+[default-nodes]
+default.configured.audio.sink=xrdp-sink
+default.configured.audio.sink.0=xrdp-sink
+default.configured.audio.source=xrdp-source
+default.configured.audio.source.0=xrdp-source

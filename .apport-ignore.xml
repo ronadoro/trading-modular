@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<apport>
+  <ignore program="/usr/bin/light-locker" mtime="1711954256"/>
+</apport>

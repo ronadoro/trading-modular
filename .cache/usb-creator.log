@@ -1,0 +1,16 @@
+usb-creator 2025-09-11 21:10:45,271 (DEBUG) backend.py:29: UDisks2Backend
+usb-creator 2025-09-11 21:10:45,493 (DEBUG) backend.py:69: detect_devices
+usb-creator 2025-09-11 21:10:45,495 (DEBUG) backend.py:109: drive added: /org/freedesktop/UDisks2/block_devices/sdb
+usb-creator 2025-09-11 21:10:45,495 (DEBUG) backend.py:123: not adding device: 0 byte disk.
+usb-creator 2025-09-11 21:10:47,821 (DEBUG) backend.py:181: cancel_install
+usb-creator 2025-09-12 16:52:33,041 (DEBUG) backend.py:29: UDisks2Backend
+usb-creator 2025-09-12 16:52:33,263 (DEBUG) backend.py:69: detect_devices
+usb-creator 2025-09-12 16:52:33,265 (DEBUG) backend.py:109: drive added: /org/freedesktop/UDisks2/block_devices/sdc
+usb-creator 2025-09-12 16:52:33,265 (DEBUG) backend.py:123: not adding device: 0 byte disk.
+usb-creator 2025-09-12 16:52:33,265 (DEBUG) backend.py:109: drive added: /org/freedesktop/UDisks2/block_devices/sr0
+usb-creator 2025-09-12 16:52:33,265 (DEBUG) backend.py:123: not adding device: 0 byte disk.
+usb-creator 2025-09-12 16:52:33,266 (DEBUG) backend.py:109: drive added: /org/freedesktop/UDisks2/block_devices/sdb
+usb-creator 2025-09-12 16:52:33,266 (DEBUG) frontend.py:208: add_target: /org/freedesktop/UDisks2/block_devices/sdb
+usb-creator 2025-09-12 16:52:33,294 (DEBUG) backend.py:109: drive added: /org/freedesktop/UDisks2/block_devices/sdd
+usb-creator 2025-09-12 16:52:33,295 (DEBUG) frontend.py:208: add_target: /org/freedesktop/UDisks2/block_devices/sdd
+usb-creator 2025-09-12 16:53:39,550 (DEBUG) backend.py:181: cancel_install

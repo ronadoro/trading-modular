@@ -1,0 +1,6 @@
+2025/09/26-12:36:15.875 143f Reusing MANIFEST /home/ronald-orozco/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/09/26-12:36:15.876 143f Recovering log #4
+2025/09/26-12:36:15.878 143f Reusing old log /home/ronald-orozco/.config/microsoft-edge/Default/Sync Data/LevelDB/000004.log 
+2025/09/26-12:41:16.753 1440 Level-0 table #8: started
+2025/09/26-12:41:16.760 1440 Level-0 table #8: 128532 bytes OK
+2025/09/26-12:41:16.763 1440 Delete type=0 #4

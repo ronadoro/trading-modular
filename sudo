@@ -1,0 +1,70 @@
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: Starting xrdp.service - xrdp daemon...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit xrdp.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit xrdp.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6870.[0m
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M xrdp[14476]: [INFO ] address [0.0.0.0] port [3389] mode 1
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M xrdp[14476]: [INFO ] listening to port 3389 on 0.0.0.0
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M xrdp[14476]: [0;1;31m[0;1;39m[0;1;31m[ERROR] g_tcp_bind(7, 3389) failed bind IPv6 (errno=98) and IPv4 (errno=22).[0m
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M xrdp[14476]: [0;1;31m[0;1;39m[0;1;31m[ERROR] trans_listen_address failed[0m
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M xrdp[14476]: [0;1;31m[0;1;39m[0;1;31m[CORE ] Failed to start xrdp daemon, possibly address already in use.[0m
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: [0;1;39m[0;1;31m[0;1;39mxrdp.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit xrdp.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mxrdp.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit xrdp.service has entered the 'failed' state with result 'exit-code'.[0m
+sep 12 17:41:38 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start xrdp.service - xrdp daemon.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit xrdp.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit xrdp.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6870 and the job result is failed.[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: Starting xrdp.service - xrdp daemon...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit xrdp.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit xrdp.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6965.[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M xrdp[15022]: [INFO ] address [0.0.0.0] port [3389] mode 1
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M xrdp[15022]: [INFO ] listening to port 3389 on 0.0.0.0
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M xrdp[15022]: [0;1;31m[0;1;39m[0;1;31m[ERROR] g_tcp_bind(7, 3389) failed bind IPv6 (errno=98) and IPv4 (errno=22).[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M xrdp[15022]: [0;1;31m[0;1;39m[0;1;31m[ERROR] trans_listen_address failed[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M xrdp[15022]: [0;1;31m[0;1;39m[0;1;31m[CORE ] Failed to start xrdp daemon, possibly address already in use.[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: [0;1;39m[0;1;31m[0;1;39mxrdp.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit xrdp.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mxrdp.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit xrdp.service has entered the 'failed' state with result 'exit-code'.[0m
+sep 12 17:42:43 ronald-orozco-To-be-filled-by-O-E-M systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start xrdp.service - xrdp daemon.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit xrdp.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit xrdp.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 6965 and the job result is failed.[0m

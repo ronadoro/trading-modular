@@ -1,0 +1,15 @@
+2025/09/26-12:36:20.065 1441 Reusing MANIFEST /home/ronald-orozco/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/09/26-12:36:20.066 1441 Recovering log #16
+2025/09/26-12:36:20.066 1441 Reusing old log /home/ronald-orozco/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000016.log 
+2025/09/26-12:36:45.469 1440 Level-0 table #20: started
+2025/09/26-12:36:45.473 1440 Level-0 table #20: 672368 bytes OK
+2025/09/26-12:36:45.475 1440 Delete type=0 #16
+2025/09/26-12:36:45.475 1440 Compacting 4@0 + 1@1 files
+2025/09/26-12:36:45.479 1440 Generated table #21@0: 4 keys, 672275 bytes
+2025/09/26-12:36:45.479 1440 Compacted 4@0 + 1@1 files => 672275 bytes
+2025/09/26-12:36:45.480 1440 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/26-12:36:45.481 1440 Delete type=2 #8
+2025/09/26-12:36:45.481 1440 Delete type=2 #11
+2025/09/26-12:36:45.481 1440 Delete type=2 #14
+2025/09/26-12:36:45.481 1440 Delete type=2 #20
+2025/09/26-12:36:45.481 1440 Delete type=2 #17
