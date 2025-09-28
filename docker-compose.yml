@@ -1,7 +1,9 @@
 version: '3.8'
 
 services:
+
   postgres:
+    container_name: ronald-orozco-postgres-1
     image: timescale/timescaledb:latest-pg14
     restart: always
     env_file: .env
@@ -15,22 +17,28 @@ services:
       - "5432:5432"
 
   redis:
+    container_name: ronald-orozco-redis-1
     image: redis:latest
     restart: always
     ports:
       - "6379:6379"
 
   minio:
+    container_name: ronald-orozco-minio-1
     image: minio/minio
     restart: always
     env_file: .env
     command: server /data
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
     volumes:
       - miniodata:/data
     ports:
       - "9000:9000"
 
   jupyter:
+    container_name: ronald-orozco-jupyter-1
     image: jupyter/scipy-notebook
     restart: always
     ports:
