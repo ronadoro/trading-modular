@@ -1,183 +1,46 @@
-[20250928-14:49:05] [INFO ] Socket 12: AF_UNIX connection received
-[20250928-14:49:05] [INFO ] sound_process_output_format:
-[20250928-14:49:05] [INFO ]       wFormatNo       0
-[20250928-14:49:05] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
-[20250928-14:49:05] [INFO ]       nChannels       2
-[20250928-14:49:05] [INFO ]       nSamplesPerSec  44100
-[20250928-14:49:05] [INFO ]       nAvgBytesPerSec 176400
-[20250928-14:49:05] [INFO ]       nBlockAlign     4
-[20250928-14:49:05] [INFO ]       wBitsPerSample  16
-[20250928-14:49:05] [INFO ]       cbSize          0
-[20250928-14:49:05] [INFO ] sound_process_output_format:
-[20250928-14:49:05] [INFO ]       wFormatNo       1
-[20250928-14:49:05] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
-[20250928-14:49:05] [INFO ]       nChannels       2
-[20250928-14:49:05] [INFO ]       nSamplesPerSec  22050
-[20250928-14:49:05] [INFO ]       nAvgBytesPerSec 88200
-[20250928-14:49:05] [INFO ]       nBlockAlign     4
-[20250928-14:49:05] [INFO ]       wBitsPerSample  16
-[20250928-14:49:05] [INFO ]       cbSize          0
-[20250928-14:49:05] [INFO ] sound_process_training: round trip time 18
-[20250928-14:49:05] [INFO ] Detected remote smartcard 'SCARD'
-[20250928-14:49:05] [INFO ] Detected remote printer 'PRN4' (not supported)
-[20250928-14:49:05] [INFO ] Detected remote printer 'PRN3' (not supported)
-[20250928-14:49:05] [INFO ] Detected remote printer 'PRN2' (not supported)
-[20250928-14:54:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-14:55:13] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-14:55:47] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-14:56:26] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-14:56:59] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:12:20] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:12:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:12:51] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:13:01] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:13:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:14:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:14:31] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:14:42] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:14:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:15:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:17:00] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:18:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:20:28] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:22:54] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:23:28] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:23:48] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:24:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:25:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:25:26] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:27:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:27:56] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:30:05] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:30:33] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:31:19] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:31:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:32:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:32:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:32:57] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:33:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:33:54] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:34:05] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:35:09] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:36:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:37:23] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:37:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:41:32] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:41:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:42:10] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:42:18] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:45:05] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:45:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:46:31] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:47:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:48:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:49:56] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:50:18] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:50:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:51:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:51:47] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:51:59] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:52:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:53:03] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:53:12] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:53:24] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:54:10] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:54:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-15:54:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:03:31] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:04:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:04:56] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:05:16] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:05:29] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:07:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:07:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:08:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:09:27] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:09:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:10:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:10:51] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:12:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:16:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:17:42] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:18:03] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:18:09] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:18:24] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:21:09] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:21:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:22:22] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:22:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:22:51] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:24:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:24:18] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:24:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:24:43] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:26:54] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:27:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:28:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:28:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:30:29] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:31:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:33:48] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:34:20] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:35:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:37:34] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:40:39] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:41:38] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:41:47] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:42:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:43:43] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:43:51] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:44:01] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:44:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:45:32] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:46:12] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:46:23] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:46:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:47:13] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:47:18] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:48:15] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:48:55] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:49:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:50:14] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:50:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:50:56] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:51:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:52:13] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:54:01] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:54:47] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:55:29] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:55:44] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:56:25] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:57:02] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:57:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:57:45] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:57:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:58:06] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:59:00] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-16:59:47] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:00:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:01:13] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:01:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:01:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:03:37] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:03:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:03:59] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:04:55] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:05:04] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:06:04] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:06:33] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:07:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:09:01] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:25:21] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:33:47] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:34:46] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:37:10] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:37:58] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:38:45] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:39:35] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:40:42] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:40:48] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:41:10] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:41:29] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:41:40] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
-[20250928-17:41:53] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-15:31:25] [INFO ] Socket 12: AF_UNIX connection received
+[20250929-15:31:25] [INFO ] sound_process_output_format:
+[20250929-15:31:25] [INFO ]       wFormatNo       0
+[20250929-15:31:25] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20250929-15:31:25] [INFO ]       nChannels       2
+[20250929-15:31:25] [INFO ]       nSamplesPerSec  44100
+[20250929-15:31:25] [INFO ]       nAvgBytesPerSec 176400
+[20250929-15:31:25] [INFO ]       nBlockAlign     4
+[20250929-15:31:25] [INFO ]       wBitsPerSample  16
+[20250929-15:31:25] [INFO ]       cbSize          0
+[20250929-15:31:25] [INFO ] sound_process_output_format:
+[20250929-15:31:25] [INFO ]       wFormatNo       1
+[20250929-15:31:25] [INFO ]       wFormatTag      WAVE_FORMAT_PCM
+[20250929-15:31:25] [INFO ]       nChannels       2
+[20250929-15:31:25] [INFO ]       nSamplesPerSec  22050
+[20250929-15:31:25] [INFO ]       nAvgBytesPerSec 88200
+[20250929-15:31:25] [INFO ]       nBlockAlign     4
+[20250929-15:31:25] [INFO ]       wBitsPerSample  16
+[20250929-15:31:25] [INFO ]       cbSize          0
+[20250929-15:31:25] [INFO ] sound_process_training: round trip time 1
+[20250929-15:31:25] [INFO ] Detected remote smartcard 'SCARD'
+[20250929-15:31:25] [INFO ] Detected remote printer 'PRN4' (not supported)
+[20250929-15:31:25] [INFO ] Detected remote printer 'PRN3' (not supported)
+[20250929-15:31:25] [INFO ] Detected remote printer 'PRN2' (not supported)
+[20250929-16:11:43] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:12:01] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:12:43] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:13:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:14:19] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:14:32] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:24:11] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:24:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:24:51] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:25:52] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:26:07] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:26:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:26:28] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:27:04] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:27:30] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:27:53] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:28:09] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:28:20] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:28:57] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:29:17] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:30:05] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
+[20250929-16:31:08] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
